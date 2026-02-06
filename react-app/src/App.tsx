@@ -8,6 +8,8 @@ function App() {
           justifyContent: "space-between",
           alignItems: "center",
         }}
+
+        
       >
         {/* 左側：清算期間 */}
         <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
